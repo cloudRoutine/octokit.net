@@ -26,7 +26,7 @@ Console.WriteLine(user.Followers + " folks love the half ogre!");
 
 ## Getting Started
 
-Octokit is available on NuGet.
+[Octokit is available on NuGet.](https://www.nuget.org/packages/Octokit/)
 
 ```
 Install-Package Octokit
